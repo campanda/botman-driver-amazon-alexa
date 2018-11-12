@@ -1,5 +1,5 @@
 {
-    "name": "botman/driver-amazon-alexa",
+    "name": "campanda/botman-driver-amazon-alexa",
     "license": "MIT",
     "description": "Amazon Alexa driver for BotMan",
     "keywords": [
@@ -13,11 +13,14 @@
         {
             "name": "Marcel Pociot",
             "email": "m.pociot@gmail.com"
+        },
+        {
+            "name": "Helmut Hoffer von Ankershoffen",
+            "email": "helmut.hoffer.von.ankershoffen@campanda.com"
         }
     ],
     "require": {
         "php": ">=7.1",
-        "botman/botman": "~2.0",
         "minicodemonkey/amazon-alexa-php": "^0.1.5",
         "techworker/ssml": "^1.0"
     },
